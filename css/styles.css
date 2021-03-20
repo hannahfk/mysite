@@ -1,29 +1,29 @@
 body {
-  color: #40514E;
+  color: #40514e;
   margin: 0;
   text-align: center;
-  font-family: 'Barlow Condensed', sans-serif;
+  font-family: "Barlow Condensed", sans-serif;
   background-color: #f4f6ff;
 }
 
 h1 {
   margin-top: 0;
-  font-family: 'Shadows Into Light', cursive;
+  font-family: "Shadows Into Light", cursive;
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
   color: #67a828;
 }
 
-h2{
-  font-family: 'Montserrat', sans-serif;
+h2 {
+  font-family: "Montserrat", sans-serif;
   font-size: 2.5rem;
   color: #67a828;
   font-weight: normal;
   padding-bottom: 10px;
 }
 
-h3{
-  font-family: 'Montserrat', sans-serif;
+h3 {
+  font-family: "Montserrat", sans-serif;
   color: #67a828;
 }
 
@@ -32,7 +32,7 @@ p {
 }
 
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted #eaf6f6 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -40,13 +40,13 @@ hr {
 
 a {
   color: #548a21;
-  font-family: 'Barlow Condensed', sans-serif;
+  font-family: "Barlow Condensed", sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
 
 a:hover {
-  color: #EAF6F6;
+  color: #eaf6f6;
 }
 
 .top-container {
@@ -71,8 +71,8 @@ a:hover {
 }
 
 .copyright {
-  color: #40514E;
-  font-size: .75rem;
+  color: #40514e;
+  font-size: 0.75rem;
   padding: 20px 0;
 }
 
@@ -89,7 +89,8 @@ a:hover {
 }
 
 .mountain {
-  margin:auto;
+  margin: auto;
+  margin-bottom: -2px;
 }
 
 .skill-row {
@@ -116,27 +117,25 @@ a:hover {
   margin-left: 30px;
 }
 
-.contact-message{
+.contact-message {
   width: 40%;
   margin: 40px auto 60px;
 }
 
 .btn {
-   background: #548a21;
-   border-radius: 8px;
-   color: #FFFFFF;
-   font-family: Arial;
-   font-size: 20px;
-   padding: 10px 20px;
-   text-decoration: none;
+     background: #548a21;
+     border-radius: 8px;
+     color: #ffffff;
+     font-family: Arial;
+     font-size: 20px;
+     padding: 10px 20px;
+     text-decoration: none;
 }
 
 .btn:hover {
-   background: #548a21;
-   text-decoration: none;
-
+     background: #548a21;
+     text-decoration: none;
 }
-
 
 .footer-link {
   color: #548a21;
