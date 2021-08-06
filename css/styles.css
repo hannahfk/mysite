@@ -94,7 +94,7 @@ a:hover {
 }
 
 .skill-row {
-  margin: 100px auto 100px auto;
+  margin: 50px auto 100px auto;
   width: 50%;
   text-align: left;
 }
@@ -123,20 +123,23 @@ a:hover {
 }
 
 .btn {
-     background: #548a21;
-     border-radius: 8px;
-     color: #ffffff;
-     font-family: Arial;
-     font-size: 20px;
-     padding: 10px 20px;
-     text-decoration: none;
+  background: #548a21;
+  border-radius: 8px;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 20px;
+  padding: 10px 20px;
+  text-decoration: none;
 }
 
 .btn:hover {
-     background: #548a21;
-     text-decoration: none;
+  background-color: #355c10;
 }
 
 .footer-link {
   color: #548a21;
+}
+
+a:hover {
+  background-color: #355c10;
 }
