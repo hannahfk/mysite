@@ -1,0 +1,24 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "Work in progress of a hire site, potentially portfolio site!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannahfk/mysite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannahfk/mysite/issues"
+  },
+  "homepage": "https://github.com/hannahfk/mysite#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "typescript": "^4.3.5"
+  }
+}
